@@ -1,0 +1,10 @@
+[package]
+name = "haxca/cubic-conquest"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Trove = "sleitnick/trove@1.0.0"
+binder = "hahafunnyman/binder@0.2.0"
+
